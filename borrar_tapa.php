@@ -1,5 +1,5 @@
 <?php
-
+//variables de sesion
 include 'head.php';
 session_start();
 //ha pulsado el boton borrar
